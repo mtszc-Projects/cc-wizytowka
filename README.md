@@ -1,5 +1,5 @@
 # cc-wizytowka
-> example portfolio page based on mockup provided from CodersCamp
+> example portfolio page based on mockup provided from CodersCrew
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,7 +9,7 @@
 * [Inspiration](#inspiration)
 
 ## General info
-This porfolio page is made for first projekt in CodersCamp made by CodersCrew
+This porfolio page is made for first projekt in CodersCamp curse, made by CodersCrew. Basic idea is to create static website using HTML and CSS.
 
 ## Technologies
 * HTML
@@ -17,6 +17,8 @@ This porfolio page is made for first projekt in CodersCamp made by CodersCrew
 
 ## Features
 List of features ready and TODOs for future development
+
+Ready:
 * RWD
 * box model
 
