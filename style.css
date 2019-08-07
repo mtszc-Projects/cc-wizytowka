@@ -335,7 +335,7 @@ footer {
 @media screen and (max-width: 1024px){
 
  h1{
-     color:red;
+     /* color:red; */
      font-size: 6rem;
  }
  h2{
@@ -376,7 +376,7 @@ footer {
 
 @media screen and (max-width: 768px){
     h1{
-        color:green;
+        /* color:green; */
         font-size: 5rem;
     }
     h2{
@@ -419,7 +419,7 @@ h4{
 
 @media screen and (max-width: 480px){
     h1{
-        color:blue;
+        /* color:blue; */
         font-size: 4rem;
     }
     h2{
