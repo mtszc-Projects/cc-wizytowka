@@ -6,7 +6,6 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 
 ## General info
 This porfolio page is made for first projekt in CodersCamp curse, made by CodersCrew. Basic idea is to create static website using HTML and CSS.
@@ -28,6 +27,3 @@ To-do list:
 
 ## Status
 Project is: _in progress_
-
-## Inspiration
-https://www.figma.com/file/imz81mJf8mRpA62bzVOxWE/Portfolio-page-Coders-Camp?node-id=0%3A1
