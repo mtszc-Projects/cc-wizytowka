@@ -386,7 +386,7 @@ footer {
 nav {
     justify-content: space-around;
     align-items: center;
- font-size: 2rem;
+    font-size: 2rem;
 }
 nav div:first-child{
     font-size: 3rem;
@@ -396,7 +396,16 @@ nav li{
 }
 #contact .wrapper{
     flex-wrap: wrap;
+    height: auto;
+   
 }
+.incontact1{
+    height: 60vh;
+}
+.incontact2{
+    height:100vh;
+}
+
 h4{
     text-align: center;
     padding-left:0;
